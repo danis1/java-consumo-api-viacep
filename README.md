@@ -41,7 +41,6 @@ src/
 
 Digite uma opção: 
 1 - Buscar CEP 
-
 2 - Ver histórico
 
 3 - Limpar histórico 
