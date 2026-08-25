@@ -32,6 +32,8 @@ src/
     └── view/       # Interface de linha de comando (CLI) e execução (Main)
 
 
+---
+
 
 ## 📝 Exemplo de Uso
 
