@@ -41,14 +41,16 @@ src/
 
 Digite uma opção: 
 1 - Buscar CEP 
+
 2 - Ver histórico
 
 3 - Limpar histórico 
 
 4 - Encerrar
 
-1
-Olá, digite um CEP (somente números) para buscar:
+
+
+1 - Olá, digite um CEP (somente números) para buscar:
 11310180
 
 Resposta:
