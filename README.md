@@ -31,7 +31,7 @@ src/
     ├── service/    # Regras de requisição HTTP e comunicação com a API
     └── view/       # Interface de linha de comando (CLI) e execução (Main)
 
-
+```
 ---
 
 
