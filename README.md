@@ -38,6 +38,7 @@ src/
 ## 📝 Exemplo de Uso
 
 =================================
+
 Digite uma opção: 
 1 - Buscar CEP 
 2 - Ver histórico 
